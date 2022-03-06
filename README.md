@@ -1,4 +1,4 @@
-![Logo HSR](./medias/Horizontal_fond_blanc_logo.png)
+![Logo HSR](./medias/hsr.png)
 
 
 # HackSecuReims2022
