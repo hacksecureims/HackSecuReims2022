@@ -68,4 +68,6 @@ Ce dépot git mets à disposition les différents writeups officiels et ceux pro
 
 # Scoreboard
 
+![Scoreboard](./medias/graphs.png)
+
 ![Scoreboard](./medias/scoreboard.png)
