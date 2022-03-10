@@ -9,7 +9,7 @@ nc 109.232.232.225 15003
 
 First, I tried the netcat command to see the message format.
 
-![netcat return]("./medias/netcat.PNG")
+![netcat return](./medias/netcat.PNG)
 
 You can see the message:
 > Objective: Solve the system of equations to find the password
@@ -178,7 +178,7 @@ if __name__ == "__main__":
 
 The lasts `print(recv)` and `recv = r.recvrepeat(5)` are here to be sure to read the flag.
 
-![flag]("./medias/flag.PNG")
+![flag](./medias/flag.PNG)
 
 The flag is 
 `FLAG = HSR{I_H0p3_U_uS3d_tH3_m4G1cal_z3_s0lV3r}`
