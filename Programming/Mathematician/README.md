@@ -1,9 +1,13 @@
 # Mathematician - 75 points
 
-Connection: 
-```BASH
-nc 109.232.232.225 15003
-```
+## Statement
+
+> Are you good at solving equations ?
+>
+> nc 10.22.6.101 15003
+>
+> infos: type(PASSWORD) --> string PASSWORD[0] = ord(first letter of password)
+
 
 ## Solving
 
