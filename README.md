@@ -3,7 +3,7 @@
 
 # HackSecuReims2022
 
-Ce dépot git mets à disposition les différents writeups officiels et ceux produits par les différents joueurs du HackSecuReims 2022.
+Ce dépôt git met à disposition les différents writeups officiels et ceux produits par les différents joueurs du HackSecuReims 2022.
 
 
 # Challenges
