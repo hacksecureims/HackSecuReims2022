@@ -29,6 +29,8 @@ Ce dépôt git met à disposition les différents writeups officiels et ceux pro
 
 ![Misc](./medias/MISC.png)
 
+* [Official - Stegano ? Not really...](https://github.com/Maritime-Cyber-Team/HackSecuReims2022/blob/main/MISC/Stegano_Not_really/README.MD)
+
 
 ![](https://img.shields.io/static/v1?label=Catégorie&message=Stegano&color=be1414&style=for-the-badge)
 
