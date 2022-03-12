@@ -50,6 +50,13 @@ Ce dépôt git met à disposition les différents writeups officiels et ceux pro
 ![Crypto](./medias/Crypto.png)
 
 
+* [1.2.3...](./Crypto/123/README.md)
+* [Bas les masques !](./Crypto/Bas_les_masques/README.md)
+* [IAMBATMAN](./Crypto/IAMBATMAN/README.md)
+* [Mixed](./Crypto/Mixed/README.md)
+* [ZipZip](./Crypto/ZipZip/README.md)
+
+
 ![](https://img.shields.io/static/v1?label=Catégorie&message=Web&color=be1414&style=for-the-badge)
 
 ![Web](./medias/Web.png)
