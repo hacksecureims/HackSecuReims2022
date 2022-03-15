@@ -30,6 +30,7 @@ Ce dépôt git met à disposition les différents writeups officiels et ceux pro
 ![Misc](./medias/MISC.png)
 
 * [Official - Stegano ? Not really...](https://github.com/Maritime-Cyber-Team/HackSecuReims2022/blob/main/MISC/Stegano_Not_really/README.MD)
+* [Oneliner](https://www.duboc.xyz/writeups/2022-03-15-hsr-2022#misc-oneliner)
 
 
 ![](https://img.shields.io/static/v1?label=Catégorie&message=Stegano&color=be1414&style=for-the-badge)
@@ -41,6 +42,8 @@ Ce dépôt git met à disposition les différents writeups officiels et ceux pro
 
 ![Reverse](./medias/Reverse.png)
 
+* [InfiniteCrackMe 1](https://www.duboc.xyz/writeups/2022-03-15-hsr-2022#reverse-infinitecrackme-1)
+* [InfiniteCrackMe 2](https://www.duboc.xyz/writeups/2022-03-15-hsr-2022#reverse-infinitecrackme-2)
 
 ![](https://img.shields.io/static/v1?label=Catégorie&message=IOT&color=be1414&style=for-the-badge)
 
@@ -63,6 +66,9 @@ Ce dépôt git met à disposition les différents writeups officiels et ceux pro
 
 ![Web](./medias/Web.png)
 
+* [Werkzeug Fuzzing 1](https://www.duboc.xyz/writeups/2022-03-15-hsr-2022#web-werkzeug-fuzzing-1)
+* [Werkzeug Fuzzing 2](https://www.duboc.xyz/writeups/2022-03-15-hsr-2022#web-werkzeug-fuzzing-2)
+* [Werkzeug Fuzzing 3](https://www.duboc.xyz/writeups/2022-03-15-hsr-2022#web-werkzeug-fuzzing-3)
 
 
 ![](https://img.shields.io/static/v1?label=Catégorie&message=OSINT&color=be1414&style=for-the-badge)
@@ -74,7 +80,8 @@ Ce dépôt git met à disposition les différents writeups officiels et ceux pro
 
 ![programming](./medias/Programming.png)
 
-[Mathematician](./Programming/Mathematician/README.md).
+* [Mathematician](./Programming/Mathematician/README.md)
+* [Mathematician](https://www.duboc.xyz/writeups/2022-03-15-hsr-2022#programming-mathematician)
 
 # Scoreboard
 
