@@ -19,6 +19,8 @@ Ce dépôt git met à disposition les différents writeups officiels et ceux pro
 
 ![pentest](./medias/Pentest.png)
 
+* SVR-POUDLARD 1 à 3 (sources) : https://github.com/Processus-Thief/CTF-HACKSECUREIMS-2022
+* SVR-POUDLARD 1 à 3 (Writeup vidéo) : https://www.youtube.com/watch?v=Hl4wKvphOH0&t=134s
 
 ![](https://img.shields.io/static/v1?label=Catégorie&message=Forensic&color=be1414&style=for-the-badge)
 
@@ -59,6 +61,7 @@ Ce dépôt git met à disposition les différents writeups officiels et ceux pro
 * [Bas les masques !](./Crypto/Bas_les_masques/README.md)
 * [IAMBATMAN](./Crypto/IAMBATMAN/README.md)
 * [Mixed](./Crypto/Mixed/README.md)
+* [Review the basics](./Crypto/Review_the_basics)
 * [ZipZip](./Crypto/ZipZip/README.md)
 
 
