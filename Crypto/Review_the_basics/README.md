@@ -1,6 +1,6 @@
 # Review the basics - 150 points
 
-La structure du message ressemble à deux colonnes de hash suivit d'un caractère. Si l'on prête attention on remarque que certain hash se répète dans les colonnes, ce qui nous donne un indice sur la taille potentielle du message d'origine de chacun de ces hashs (quelques lettres tout au plus). De plus les lignes qui font répétitions sur colonne de gauche se trouvent au même endroit sur la colonne de droite, ce qui indique que les messages des deux colonnes sont très probablement le même.
+La structure du message ressemble à deux colonnes de hash suivi d'un caractère. Si l'on prête attention, on remarque que certains hashs se répètent dans les colonnes, ce qui nous donne un indice sur la taille potentielle du message d'origine de chacun de ces hashs (quelques lettres tout au plus). De plus les lignes qui font des répétitions sur la colonne de gauche se trouvent au même endroit sur la colonne de droite, ce qui indique que les messages des deux colonnes sont très probablement le même.
 
 Il faut essayer de trouver le format des hashs, pour cela j'ai utilisé l'utilitaire hash-identifier présent par défaut sous Kali :
 
